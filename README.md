@@ -6,9 +6,10 @@ Description
 
 This repository is for exthm on Sony Xperia XZ1 dual (poplar_dsds).
 
-How to build LineageOS
+How to build exthm
 ----------------------
 *Initialize the exTHmUI source repository
+
 repo init -u https://github.com/exthmui/android.git -b exthm-10
 
 * Sync the repo:
