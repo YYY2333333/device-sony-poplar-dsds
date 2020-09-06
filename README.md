@@ -10,7 +10,7 @@ How to build exthm
 ----------------------
 * Initialize the exTHmUI source repository
 
-repo init -u https://github.com/exthmui/android.git -b exthm-10
+        repo init -u https://github.com/exthmui/android.git -b exthm-10
 
 * Sync the repo:
 
